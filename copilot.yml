@@ -1,0 +1,6 @@
+# .github/copilot.yml
+code_review:
+  enabled: true
+  on:
+    pull_request:
+      types: [opened, reopened, synchronize]
